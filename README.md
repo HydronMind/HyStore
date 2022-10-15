@@ -1,4 +1,4 @@
-# Hykv
+# HyStore
 
 Distributed K-V store optimized for hypergraph services
 
